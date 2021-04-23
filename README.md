@@ -5,12 +5,12 @@
 1. [About system](#section1)<br>
 2. [How To Run The Project on local machine](#section2)<br>
 3. [Steps to follow](#section3)<br>
-  - 3.1 [STEP I : MongoDB Run](#section301)<br>
-  - 3.2 [STEP II : Postgresql Run](#section302)<br>
-  - 3.3 [STEP III : Checkout in Git Branches](#section303)<br>
-  - 3.4 [STEP IV : Run .ipynb File](#section304)<br>
-  - 3.5 [STEP V : Check Data Stored or not](#section305)<br>
-  - 3.6 [STEP VI : Run Common Data File and Visualization](#section306)<br>
+  - 3.1 [STEP I: MongoDB Run](#section301)<br>
+  - 3.2 [STEP II: PostgreSQL Run](#section302)<br>
+  - 3.3 [STEP III: Checkout in Git Branches](#section303)<br>
+  - 3.4 [STEP IV: Run .ipynb File](#section304)<br>
+  - 3.5 [STEP V: Check Data Stored or not](#section305)<br>
+  - 3.6 [STEP VI: Run Common Data File and Visualization](#section306)<br>
  4. [Thank You](#section4)<br>
 
 *************************************************************************************************************************************
@@ -20,9 +20,9 @@
 *************************************************************************************************************************************
 ## 2. How To Run The Project on local machine <a id=section2></a>
 
-<b>Pre-requisites :</b>
-       1. Clone the repository from URL"".
-       2. Install Anaconda and Python software’s on your machine.
+<b>Pre-requisites :</b><br>
+       1. Clone the repository from URL"". <br>
+       2. Install Anaconda and Python software’s on your machine. <br>
        3. Install MongoDB and PostgreSQL databases on your machine.
 *************************************************************************************************************************************
 ## 3. Steps to follow <a id=section3></a>
@@ -73,4 +73,5 @@ Eg.
 *************************************************************************************************************************************
 # Thank You! <a id=section4></a>
 *************************************************************************************************************************************
+
 
