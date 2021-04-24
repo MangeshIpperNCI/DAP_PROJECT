@@ -76,10 +76,10 @@
 <b>Open Anaconda Jupyter and go to the clone directory.  Open <b>Final_version.ipynb</b> file and run. </b>
 
 1. In the branch there is a **Final_version.ipynb** file available open it in the jupyter notebook.
-![jupyter](https://user-images.githubusercontent.com/78203366/115844596-e352f580-a417-11eb-8fe2-38a85a4102f2.PNG)
+! ![final](https://user-images.githubusercontent.com/78203366/115844838-2a40eb00-a418-11eb-959a-80df12bfd266.PNG)
 
 2. In the file there are some libraries required before running, <b>you need to uncomment and install those libraries first then comment once it is installed. </b>
-![final](https://user-images.githubusercontent.com/78203366/115844838-2a40eb00-a418-11eb-959a-80df12bfd266.PNG)
+![libraries](https://user-images.githubusercontent.com/78203366/115844725-08dfff00-a418-11eb-84f3-7dc6f24cf18f.PNG)
 
 3. Finally run the code start to end.
 
